@@ -1,0 +1,26 @@
+# dependencies / builds
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.venv/
+
+# local editor / agent config
+.claude/
+.vscode/
+.env
+.env.*
+
+# generated renders, benchmark outputs, screenshots
+listen/
+bench-out/
+screenshots/
+ai-service/tests/out/
+
+# private or copyrighted audio: never publish
+test-audio/real/
+test-audio/downloads/
+test-audio/*.wav
+test-audio/*.mp3
+test-audio/*.json

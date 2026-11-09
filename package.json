@@ -1,0 +1,41 @@
+{
+  "name": "psalmist-studio",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "gen:audio": "node scripts/gen-test-wav.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "fft.js": "^4.0.4",
+    "idb": "^8.0.4",
+    "opensheetmusicdisplay": "^2.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "spessasynth_core": "^4.4.9",
+    "spessasynth_lib": "^4.4.7",
+    "standardized-audio-context": "^25.3.77",
+    "tonal": "^6.5.1",
+    "tone": "^15.1.22",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "puppeteer-core": "^25.16.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6",
+    "vitest": "^5.1.0"
+  },
+  "private": true
+}

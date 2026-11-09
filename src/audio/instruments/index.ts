@@ -1,0 +1,13 @@
+export * from './types';
+export * from './catalog';
+export * from './sampler';
+export * from './humanize';
+export * from './strum';
+export * from './pedal';
+export * from './articulation';
+export * from './groove';
+export * from './reverb';
+export * from './synthParams';
+export * from './yourInstrument';
+export { createSynth, SYNTH_PRESET_IDS, type SynthVoice, type SynthOptions } from './synth';
+export * from './strings.ro';

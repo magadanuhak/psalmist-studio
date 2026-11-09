@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "sampleRate": 44100,
+ "spaces": [
+  {
+   "id": "studio",
+   "name": "Studio",
+   "file": "studio.wav",
+   "rt60": 0.38,
+   "preDelay": 0.004,
+   "send": 0.08,
+   "bytes": 123520,
+   "license": "CC0-1.0 (generated procedurally by scripts/instruments/ir.mjs)"
+  },
+  {
+   "id": "capela",
+   "name": "Capelă",
+   "file": "capela.wav",
+   "rt60": 1.25,
+   "preDelay": 0.012,
+   "send": 0.16,
+   "bytes": 352844,
+   "license": "CC0-1.0 (generated procedurally by scripts/instruments/ir.mjs)"
+  },
+  {
+   "id": "biserica",
+   "name": "Biserică",
+   "file": "biserica.wav",
+   "rt60": 2.5,
+   "preDelay": 0.02,
+   "send": 0.22,
+   "bytes": 635084,
+   "license": "CC0-1.0 (generated procedurally by scripts/instruments/ir.mjs)"
+  },
+  {
+   "id": "catedrala",
+   "name": "Catedrală",
+   "file": "catedrala.wav",
+   "rt60": 5,
+   "preDelay": 0.032,
+   "send": 0.28,
+   "bytes": 1146644,
+   "license": "CC0-1.0 (generated procedurally by scripts/instruments/ir.mjs)"
+  },
+  {
+   "id": "sala",
+   "name": "Sală",
+   "file": "sala.wav",
+   "rt60": 1.8,
+   "preDelay": 0.018,
+   "send": 0.18,
+   "bytes": 493960,
+   "license": "CC0-1.0 (generated procedurally by scripts/instruments/ir.mjs)"
+  }
+ ],
+ "attribution": []
+}

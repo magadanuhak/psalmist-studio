@@ -1,0 +1,242 @@
+{
+ "violins": {
+  "manifest": "violins/manifest.json",
+  "bytes": 3475451,
+  "files": 75
+ },
+ "timpani": {
+  "manifest": "timpani/manifest.json",
+  "bytes": 185749,
+  "files": 4
+ },
+ "cajon": {
+  "manifest": "cajon/manifest.json",
+  "bytes": 302023,
+  "files": 19
+ },
+ "violas": {
+  "manifest": "violas/manifest.json",
+  "bytes": 4285942,
+  "files": 91
+ },
+ "cellos": {
+  "manifest": "cellos/manifest.json",
+  "bytes": 4994723,
+  "files": 99
+ },
+ "violin_solo": {
+  "manifest": "violin_solo/manifest.json",
+  "bytes": 2303552,
+  "files": 76
+ },
+ "contrabass": {
+  "manifest": "contrabass/manifest.json",
+  "bytes": 1778875,
+  "files": 56
+ },
+ "harp": {
+  "manifest": "harp/manifest.json",
+  "bytes": 1198417,
+  "files": 22
+ },
+ "folk_harp": {
+  "manifest": "folk_harp/manifest.json",
+  "bytes": 1396164,
+  "files": 28
+ },
+ "psaltery": {
+  "manifest": "psaltery/manifest.json",
+  "bytes": 485318,
+  "files": 16
+ },
+ "strumstick": {
+  "manifest": "strumstick/manifest.json",
+  "bytes": 784852,
+  "files": 20
+ },
+ "flute": {
+  "manifest": "flute/manifest.json",
+  "bytes": 1210315,
+  "files": 29
+ },
+ "piccolo": {
+  "manifest": "piccolo/manifest.json",
+  "bytes": 166940,
+  "files": 4
+ },
+ "clarinet": {
+  "manifest": "clarinet/manifest.json",
+  "bytes": 834700,
+  "files": 20
+ },
+ "oboe": {
+  "manifest": "oboe/manifest.json",
+  "bytes": 1502460,
+  "files": 36
+ },
+ "bassoon": {
+  "manifest": "bassoon/manifest.json",
+  "bytes": 1636157,
+  "files": 54
+ },
+ "recorder": {
+  "manifest": "recorder/manifest.json",
+  "bytes": 627225,
+  "files": 21
+ },
+ "ocarina": {
+  "manifest": "ocarina/manifest.json",
+  "bytes": 250410,
+  "files": 6
+ },
+ "harmonica": {
+  "manifest": "harmonica/manifest.json",
+  "bytes": 292145,
+  "files": 7
+ },
+ "tenor_sax": {
+  "manifest": "tenor_sax/manifest.json",
+  "bytes": 1611433,
+  "files": 55
+ },
+ "trumpet": {
+  "manifest": "trumpet/manifest.json",
+  "bytes": 2372835,
+  "files": 69
+ },
+ "horn": {
+  "manifest": "horn/manifest.json",
+  "bytes": 1524838,
+  "files": 46
+ },
+ "trombone": {
+  "manifest": "trombone/manifest.json",
+  "bytes": 1167544,
+  "files": 33
+ },
+ "tuba": {
+  "manifest": "tuba/manifest.json",
+  "bytes": 616969,
+  "files": 23
+ },
+ "church_organ": {
+  "manifest": "church_organ/manifest.json",
+  "bytes": 3017202,
+  "files": 37
+ },
+ "organ_pedal": {
+  "manifest": "organ_pedal/manifest.json",
+  "bytes": 783120,
+  "files": 16
+ },
+ "positive_organ": {
+  "manifest": "positive_organ/manifest.json",
+  "bytes": 2201742,
+  "files": 27
+ },
+ "upright_piano": {
+  "manifest": "upright_piano/manifest.json",
+  "bytes": 4079290,
+  "files": 36
+ },
+ "harpsichord": {
+  "manifest": "harpsichord/manifest.json",
+  "bytes": 830497,
+  "files": 17
+ },
+ "vibraphone": {
+  "manifest": "vibraphone/manifest.json",
+  "bytes": 3825994,
+  "files": 38
+ },
+ "marimba": {
+  "manifest": "marimba/manifest.json",
+  "bytes": 635596,
+  "files": 19
+ },
+ "glockenspiel": {
+  "manifest": "glockenspiel/manifest.json",
+  "bytes": 481300,
+  "files": 10
+ },
+ "xylophone": {
+  "manifest": "xylophone/manifest.json",
+  "bytes": 284571,
+  "files": 13
+ },
+ "tubular_bells": {
+  "manifest": "tubular_bells/manifest.json",
+  "bytes": 363840,
+  "files": 5
+ },
+ "kalimba": {
+  "manifest": "kalimba/manifest.json",
+  "bytes": 250408,
+  "files": 6
+ },
+ "frame_drum": {
+  "manifest": "frame_drum/manifest.json",
+  "bytes": 330604,
+  "files": 13
+ },
+ "darbuka": {
+  "manifest": "darbuka/manifest.json",
+  "bytes": 119015,
+  "files": 13
+ },
+ "conga": {
+  "manifest": "conga/manifest.json",
+  "bytes": 179063,
+  "files": 17
+ },
+ "tambourine": {
+  "manifest": "tambourine/manifest.json",
+  "bytes": 80109,
+  "files": 5
+ },
+ "shaker": {
+  "manifest": "shaker/manifest.json",
+  "bytes": 31609,
+  "files": 7
+ },
+ "triangle": {
+  "manifest": "triangle/manifest.json",
+  "bytes": 157308,
+  "files": 7
+ },
+ "sleigh_bells": {
+  "manifest": "sleigh_bells/manifest.json",
+  "bytes": 61214,
+  "files": 3
+ },
+ "cymbal": {
+  "manifest": "cymbal/manifest.json",
+  "bytes": 326271,
+  "files": 7
+ },
+ "concert_bass_drum": {
+  "manifest": "concert_bass_drum/manifest.json",
+  "bytes": 274505,
+  "files": 6
+ },
+ "accordion": {
+  "manifest": "accordion/manifest.json",
+  "bytes": 399788,
+  "files": 17
+ },
+ "nylon_guitar": {
+  "manifest": "nylon_guitar/manifest.json",
+  "bytes": 2036190,
+  "files": 48
+ },
+ "emily_guitar": {
+  "manifest": "emily_guitar/manifest.json",
+  "bytes": 2643030,
+  "files": 54
+ },
+ "bigcat_cello": {
+  "manifest": "bigcat_cello/manifest.json",
+  "bytes": 3453144,
+  "files": 107
+ }
+}

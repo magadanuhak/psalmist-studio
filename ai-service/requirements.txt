@@ -1,0 +1,25 @@
+# Python 3.11 venv (see setup-ai.cmd). torch/torchaudio come from the CUDA 12.4 index:
+#   uv pip install torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu124
+# The Anticipatory Music Transformer package is installed from a pinned commit (setup-ai.cmd):
+#   https://github.com/jthickstun/anticipation  af37397922665a0fb8d474d7988b0f3755a38d45  (Apache-2.0)
+numpy<2
+fastapi
+uvicorn[standard]
+python-multipart
+soundfile
+scipy
+mido
+pretty_midi
+transformers<4.50
+tqdm
+deepfilternet==0.5.6
+demucs==4.1.0
+pytest
+httpx
+librosa
+torchcrepe
+resampy
+matplotlib
+torchlibrosa
+# beat_this: https://github.com/CPJKU/beat_this/archive/main.zip (MIT)
+# voicefixer: pip install --no-deps voicefixer  (MIT code, CC-BY-4.0 weights)

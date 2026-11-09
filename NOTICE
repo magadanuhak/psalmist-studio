@@ -1,0 +1,29 @@
+Psalmist Studio
+Copyright 2026 Daniel Maga
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It includes or uses the following third-party works:
+
+Sound assets (public/)
+- Salamander Grand Piano, by Alexander Holm, CC BY 3.0
+  https://archive.org/details/SalamanderGrandPianoV3
+- MuseScore General SoundFont (v0.2), Copyright (c) 2018-2020 S. Christian Collins,
+  based on FluidR3Mono (c) 2014-17 Michael Cowgill and FluidR3 (c) 2000-2002 Frank Wen, MIT
+  (full text: public/soundfonts/MuseScore_General_License.md)
+- VSCO 2 Community Edition, Versilian Studios, CC0 1.0, https://github.com/sgossner/VSCO-2-CE
+- Versilian Community Sample Library (VCSL), CC0 1.0, https://github.com/sgossner/VCSL
+- FreePats: Button Accordion HN (Jeff Stauffer) and Spanish Classical Guitar, CC0 1.0, https://freepats.zenvoid.org
+- Karoryfer Samples: Emilyguitar and Karoryfer x Bigcat Cello, CC0 1.0, https://github.com/sfzinstruments
+- Groove MIDI Dataset, Jon Gillick, Adam Roberts, Jesse Engel, Douglas Eck, David Bamman (Google Magenta),
+  CC BY 4.0, https://magenta.tensorflow.org/datasets/groove (converted to drum pattern data)
+Per-file details: public/instruments/LICENSES.md
+
+Optional local AI service (ai-service/, not bundled with the web app; models are downloaded by setup-ai.cmd)
+- DeepFilterNet (MIT OR Apache-2.0), Demucs / htdemucs (MIT), Anticipatory Music Transformer (Apache-2.0,
+  weights stanford-crfm/music-medium-800k Apache-2.0), Beat This! (MIT), torchcrepe/CREPE (MIT),
+  VoiceFixer (code MIT, weights CC BY 4.0, Haohe Liu et al.), Qwen3 (Apache-2.0) on llama.cpp (MIT).
+Details: ai-service/LICENSES.md
+
+Libraries: see package.json and the in-app "Despre / Licențe" screen (Tone.js, spessasynth_lib, React,
+OpenSheetMusicDisplay, VexFlow, tonal, @tonejs/midi, fft.js, idb, zustand and others; MIT/ISC/BSD/Apache-2.0).
